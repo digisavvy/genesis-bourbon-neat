@@ -1,16 +1,21 @@
-=== Genesis Sample Theme ===
+#Overview
+This here is a Genesis Starter Theme _using the Genesis Sample Theme_. I built this using Bourbon for the SASS library and Neat, as a CSS Grid Framework Alternative to Foundation and Bootstrap. Also inspired by my other project called 'Some Like it Neat,' which is a Starter Theme using _s Bourbon and Neat
 
-Github project link: https://github.com/copyblogger/genesis-sample
+This project is still very, very early and I've not given a ton of thought to what else I'll do with it. Contributions welcome.
 
+###What's to know?
+Not too much, actually.
 
-=== Installation Instructions ===
+I ripped out all the styles from the Genesis Sample Child Theme Stylesheet and separated them out into specific CSS files. I was attempting to follow some SMACSS principles when organizing the SASS files. I haven't "SASSified" any of the Sample Child Theme CSS
 
-1. Upload the Genesis Sample theme folder via FTP to your wp-content/themes/ directory. (The Genesis parent theme needs to be in the wp-content/themes/ directory as well.)
-2. Go to your WordPress dashboard and select Appearance.
-3. Activate the Genesis Sample theme.
-4. Inside your WordPress dashboard, go to Genesis > Theme Settings and configure them to your liking.
+###I ripped out all the CSS!
+**WTF!!? Why, you f*cker??**
+Personally, I grew to love that starter themes like _s (http://underscores.me) have no styling. You simply "build up". So I wanted to take the same approach and start with a very lean baseline for the CSS. 
 
+For now, I've commented out all the styles except for Navigation (sass/layout/navigation/_navigation.scss) and Reset/Normalize Rules
 
-=== Theme Support ===
-
-Please visit http://my.studiopress.com/help/ for theme support.
+###What's included
+1. Bourbon http://bourbon.io
+2. Neat http://neat.bourbon.io
+3. Bitters http://bitters.bourbon.io
+4. Refills http://refills.bourbon.io
