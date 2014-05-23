@@ -6,6 +6,8 @@ This project is still very, very early and I've not given a ton of thought to wh
 ###What's to know?
 Not too much, actually.
 
+You need to have Genesis to use this theme, so there's that.
+
 I ripped out all the styles from the Genesis Sample Child Theme Stylesheet and separated them out into specific CSS files. I was attempting to follow some SMACSS principles when organizing the SASS files. I haven't "SASSified" any of the Sample Child Theme CSS
 
 ###I ripped out all the CSS!
