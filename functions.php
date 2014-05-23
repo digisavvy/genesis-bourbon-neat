@@ -25,6 +25,9 @@ add_theme_support( 'custom-background' );
 //* Add support for 3-column footer widgets
 add_theme_support( 'genesis-footer-widgets', 3 );
 
+// Add support for editor stylesheet
+add_editor_style( 'style.css' );
+
 //Making jQuery Google API
 function modify_jquery() {
 	if (!is_admin()) {
