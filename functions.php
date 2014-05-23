@@ -19,6 +19,12 @@ add_theme_support( 'html5' );
 //* Add viewport meta tag for mobile browsers
 add_theme_support( 'genesis-responsive-viewport' );
 
+//* adding post format support
+add_theme_support( 'post-formats', array( 'aside', 'chat', 'gallery', 'image', 'link', 'quote', 'status', 'video', 'audio' ));
+
+//* adding support for post format images
+add_theme_support( 'genesis-post-format-images' );
+
 //* Add support for custom background
 add_theme_support( 'custom-background' );
 
