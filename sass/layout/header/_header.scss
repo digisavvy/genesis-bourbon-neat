@@ -1,101 +1,101 @@
-// /*
-// Site Header
-// ---------------------------------------------------------------------------------------------------- */
+/*
+Site Header
+---------------------------------------------------------------------------------------------------- */
 
-// .site-header {
-// 	background-color: #fff;
-// }
+.site-header {
+	background-color: #fff;
+}
 
-// .site-header .wrap {
-// 	padding: 40px 0;
-// 	padding: 4rem 0;
-// }
+.site-header .wrap {
+	padding: 40px 0;
+	padding: 4rem 0;
+}
 
-// /* Title Area
-// --------------------------------------------- */
+/* Title Area
+--------------------------------------------- */
 
-// .title-area {
-// 	float: left;
-// 	font-family: Lato, sans-serif;
-// 	font-weight: 700;
-// 	padding: 16px 0;
-// 	padding: 1.6rem 0;
-// 	width: 320px;
-// }
+.title-area {
+	float: left;
+	font-family: Lato, sans-serif;
+	font-weight: 700;
+	padding: 16px 0;
+	padding: 1.6rem 0;
+	width: 320px;
+}
 
-// .header-image .title-area {
-// 	padding: 0;
-// }
+.header-image .title-area {
+	padding: 0;
+}
 
-// .site-title {
-// 	font-size: 28px;
-// 	font-size: 2.8rem;
-// 	line-height: 1;
-// 	margin: 0 0 8px;
-// 	margin: 0 0 0.8rem;
-// 	text-transform: uppercase;
-// }
+.site-title {
+	font-size: 28px;
+	font-size: 2.8rem;
+	line-height: 1;
+	margin: 0 0 8px;
+	margin: 0 0 0.8rem;
+	text-transform: uppercase;
+}
 
-// .site-title a,
-// .site-title a:hover {
-// 	color: $dark-grey;
-// }
+.site-title a,
+.site-title a:hover {
+	color: $dark-grey;
+}
 
-// .site-description {
-// 	color: $med-grey;
-// 	font-size: 16px;
-// 	font-size: 1.6rem;
-// 	font-weight: 300;
-// 	line-height: 1;
-// 	margin-bottom: 0;
-// }
+.site-description {
+	color: $med-grey;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 300;
+	line-height: 1;
+	margin-bottom: 0;
+}
 
-// /* Full width header, no widgets */
+/* Full width header, no widgets */
 
-// .header-full-width .title-area,
-// .header-full-width .site-title {
-// 	width: 100%;
-// }
+.header-full-width .title-area,
+.header-full-width .site-title {
+	width: 100%;
+}
 
-// .header-image .site-description,
-// .header-image .site-title a {
-// 	display: block;
-// 	text-indent: -9999px;
-// }
+.header-image .site-description,
+.header-image .site-title a {
+	display: block;
+	text-indent: -9999px;
+}
 
-// /* Logo, hide text */
+/* Logo, hide text */
 
-// .header-image .site-header .wrap {
-// 	background: url(images/logo.png) no-repeat left;
-// 	padding: 0;
-// }
+.header-image .site-header .wrap {
+	background: url(images/logo.png) no-repeat left;
+	padding: 0;
+}
 
-// .header-image .site-title a {
-// 	float: left;
-// 	min-height: 164px;
-// 	width: 100%;
-// }
+.header-image .site-title a {
+	float: left;
+	min-height: 164px;
+	width: 100%;
+}
 
-// /* Widget Area
-// --------------------------------------------- */
+/* Widget Area
+--------------------------------------------- */
 
-// .widget-area {
-// 	word-wrap: break-word;
-// }
+.widget-area {
+	word-wrap: break-word;
+}
 
-// .site-header .widget-area {
-// 	float: right;
-// 	text-align: right;
-// 	width: 800px;
-// }
+.site-header .widget-area {
+	float: right;
+	text-align: right;
+	width: 800px;
+}
 
-// .header-image .site-header .widget-area {
-// 	padding: 40px 0;
-// 	padding: 4rem 0;
-// }
+.header-image .site-header .widget-area {
+	padding: 40px 0;
+	padding: 4rem 0;
+}
 
-// .site-header .search-form {
-// 	float: right;
-// 	margin-top: 24px;
-// 	margin-top: 2.4rem;
-// }
+.site-header .search-form {
+	float: right;
+	margin-top: 24px;
+	margin-top: 2.4rem;
+}
